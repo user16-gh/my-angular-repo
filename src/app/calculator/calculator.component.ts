@@ -32,7 +32,7 @@ export class CalculatorComponent implements OnInit {
 
     // Calculate according to the operator
     switch ( operator ) {
-      case '/': {
+      case '+': {
 
         this.result =  firstInput + secondInput;
         break;
