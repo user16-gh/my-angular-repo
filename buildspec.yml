@@ -18,7 +18,8 @@ artifacts:
   base-directory: dist/my-angular-project
   files:
     - 'dist/my-angular-project/**/*'
-    - appsec.yml
+    - appspec.yml
     - 'deploy-script/**/*'
+
 
 
